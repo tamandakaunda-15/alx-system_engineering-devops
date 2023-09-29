@@ -1,1 +1,1 @@
-Print path od current working directory
+Print path of current working directory
